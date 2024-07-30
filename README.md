@@ -12,13 +12,12 @@ Creating a Python class to loop through collected data, store it in a CSV file, 
 Performing visualizations to show the ages with the highest income and gender distribution across spending categories. Exporting the charts for use in a PowerPoint presentation.
 
 # FILE
-├── app.py
-├── templates
-│   └── index.html
-├── user.py
-├── survey.response.csv
-├── expense visuals.ipynb
-├── README.md
+1. app.py
+2. templates: index.html
+3. user.py
+4. survey.response.csv
+5. Expense visuals.ipynb
+6. README.md
 
 # STEPS
 1. Clone the repository
